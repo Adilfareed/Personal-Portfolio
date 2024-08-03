@@ -87,6 +87,8 @@
 
     display: flex;
     align-items: center;
+    margin: auto;
+    
   }
 }
 .name {
@@ -103,6 +105,7 @@
     font-weight: 600;
     display: flex;
     align-items: center;
+    margin-top: 10px;
    
   }
 }
