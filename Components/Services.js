@@ -8,22 +8,22 @@ const Services = () => {
     <div className="services-main">
       <div className="skills ">
         <div className="skill ">
-          <h1>Front-End</h1>
-          <p>
+          <h1 className="heading">Front-End</h1>
+          <p className="desc">
           As a developer, I absolutely love the world of front-end ,
 
           <br/> development, creating beautiful interfaces <br/>and enhancing user experiences!
           </p>
         </div>
         <div className="skill ">
-        <h1>Back-End</h1>
-          <p>
+        <h1 className="heading">Back-End</h1>
+          <p className="desc">
           Back-end developers are the foundation of <br/>every application, with their knowledge powering <br/>the unseen magic that keeps everything running smoothly. Outstanding abilities!
           </p>
         </div>
         <div className="skill">
-          <h1>CMS $ SEO</h1>
-          <p>
+          <h1 className="heading">CMS $ SEO</h1>
+          <p className="desc">
           "Outstanding abilities in CMS development, such as Shopify and WordPress, and SEO are the foundation<br/> of every application, with their knowledge powering the unseen<br/> magic that keeps everything running smoothly."
           </p>
         </div>
