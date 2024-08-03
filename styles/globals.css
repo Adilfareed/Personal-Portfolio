@@ -255,3 +255,16 @@
  font-weight: 600;
  
 }
+.footer-main{
+  font-size: 30px;
+  font-family: serif;
+ color: white;
+ text-align: center;
+ margin: 50px;
+}
+.last{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
