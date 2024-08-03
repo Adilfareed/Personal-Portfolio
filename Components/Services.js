@@ -22,9 +22,9 @@ const Services = () => {
           </p>
         </div>
         <div className="skill">
-          <h1 className="heading">CMS $ SEO</h1>
+          <h1 className="heading">CMS & SEO</h1>
           <p className="desc">
-          "Outstanding abilities in CMS development, such as Shopify and WordPress, and SEO are the foundation<br/> of every application, with their knowledge powering the unseen<br/> magic that keeps everything running smoothly."
+          "Outstanding abilities in CMS development, such as Shopify and WordPress, and SEO are the foundation<br/> of every application, with their knowledge powering the unseen magic that keeps everything running smoothly."
           </p>
         </div>
       </div>
