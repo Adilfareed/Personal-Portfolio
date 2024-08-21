@@ -27,7 +27,7 @@ const Navebar = () => {
         <Link href="https://www.linkedin.com/in/adil-fareed/">
           <FaLinkedin />
         </Link>
-     <Link href=""> <MdOutlineEmail /></Link>  
+     <Link href="/contact"> <MdOutlineEmail /></Link>  
       </div>
     </div>
   );

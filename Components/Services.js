@@ -30,7 +30,7 @@ const Services = () => {
       </div>
       <div className="about">
         <h1>Hello i'm <br/> Adil Fareed</h1>
-        <p>"I graduated from FUUAST in 2024 <br/> I have a strong interest in coding and enjoy the challenge of tackling complex issues.<br/> I live in Houston, Texas, where I am inspired by the thriving tech scene and am enthusiastic about the career options it has to offer.<br/> I'm excited to advance my knowledge and expertise in web development, and I look forward to making a contribution to the rapidly changing world of technology."</p>
+        <p>"I graduated from FUUAST in 2024 <br/> I have a strong interest in coding and enjoy the challenge of tackling complex issues.<br/> I live in karachi, Pakistan. where I am inspired by the thriving tech scene and am enthusiastic about the career options it has to offer.<br/> I'm excited to advance my knowledge and expertise in web development, and I look forward to making a contribution to the rapidly changing world of technology."</p>
       </div>
     </div>
   );

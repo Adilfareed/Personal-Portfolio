@@ -1,10 +1,10 @@
 
 import Footer from '@/Components/Footer'
 import Hero from '@/Components/Hero'
-import About from '@/Components/Navebar/About'
-import Projects from '@/Components/Projects'
-import Services from '@/Components/Services'
 
+import Project from '@/Components/Project'
+import Services from '@/Components/Services'
+import Link from 'next/link'
 
 
 import React from 'react'
@@ -15,8 +15,11 @@ const index = () => {
     
      <Hero/>
      <Services/>
-     <Projects/>
-    <Footer/>
+     <Project/>
+     <div className="view" >
+        <Link href="/projects">View All</Link>
+      </div>
+      <Footer/>
     </div>
   )
 }
