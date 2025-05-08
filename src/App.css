@@ -1,0 +1,48 @@
+:root {
+    --backgroundRadius: 2em;
+    --itemRadius: 1em
+}
+
+.section-title {
+    font-weight: 900;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: var(--white);
+    color: var(--body);
+    text-transform: uppercase;
+    letter-spacing: -5px;
+    font-size: max(3.5em, 5vw);
+    margin: 5% 0;
+    font-family: var(--title-font);
+}
+
+.section-title span {
+    color: var(--white);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.loading-screen {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading-screen svg {
+    fill-rule:nonzero;
+    clip-rule:evenodd;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    width: 50%;
+}
+
+@media screen and (min-width: 768px) {
+    .loading-screen svg {
+        width: 20%;
+    }
+}
